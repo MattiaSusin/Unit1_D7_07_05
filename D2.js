@@ -175,7 +175,17 @@ console.log(me.skills)
 
 let numeri = null
 
-numeri = [1,2,3,4,5,6,7,8,9,10]
+numeri = []
+numeri [0] = 1 
+numeri [1] = 2
+numeri [2] = 3
+numeri [3] = 4
+numeri [4] = 5
+numeri [5] = 6
+numeri [6] = 7 
+numeri [7] = 8
+numeri [8] = 9
+numeri [9] = 10
 
 console.log(numeri)
 
